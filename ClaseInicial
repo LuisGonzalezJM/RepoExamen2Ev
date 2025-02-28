@@ -5,6 +5,6 @@ public class ClaseInicial{
         System.out.println("Primera línea de la ClaseInicial");
 
 
-        //hola luis :p
+       hola Luis :P
     }
 }
