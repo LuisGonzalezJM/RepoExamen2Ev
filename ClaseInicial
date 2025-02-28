@@ -1,11 +1,9 @@
 //Esta es el fichero original que viene creado
-
-
-//Y este es el comentario que Daniel San Miguel añade
+//Comentario Alberto Catalina
 
 public class ClaseInicial{
     public static void main(String[] args) {
         System.out.println("Primera línea de la ClaseInicial");
     }
 }
-//Hola Soy Oscar Moreno
+
