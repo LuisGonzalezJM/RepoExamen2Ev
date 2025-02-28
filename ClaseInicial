@@ -1,6 +1,6 @@
 //Esta es el fichero original que viene creado
 
-//Bombocleta
+//Bombocleta.
 
 public class ClaseInicial{
     public static void main(String[] args) {
