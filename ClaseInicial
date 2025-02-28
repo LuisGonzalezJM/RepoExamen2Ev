@@ -2,7 +2,7 @@
 
 
 //Y este es el comentario que Daniel San Miguel añade
-
+//Pero viene Alvaro Martin Garcia y comenta el comentario que Daniel San Miguel ha comentado
 public class ClaseInicial{
     public static void main(String[] args) {
         System.out.println("Primera línea de la ClaseInicial");
